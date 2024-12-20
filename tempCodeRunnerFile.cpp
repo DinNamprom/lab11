@@ -37,7 +37,7 @@ int main() {
             grade = "F";
             break;
         default:
-            grade = "W";
+            grade = "w";
             break;
     }
     cout << "You will get " << grade << " in this 261102.";
